@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+{% schema %}
+	$0
+{% endschema%}
+]]></content>
+<tabTrigger>schema</tabTrigger>
+<description>liquid schema</description>
+<scope>text.html</scope>
+</snippet>
