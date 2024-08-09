@@ -4,5 +4,5 @@
 ]]></content>
 <tabTrigger>render</tabTrigger>
 <description>liquid render</description>
-<scope>text.html</scope>
+<scope>text.html.liquid</scope>
 </snippet>

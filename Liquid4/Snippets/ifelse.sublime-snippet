@@ -8,5 +8,5 @@
 ]]></content>
 <tabTrigger>ifelse</tabTrigger>
 <description>liquid if else</description>
-<scope>text.html</scope>
+<scope>text.html.liquid</scope>
 </snippet>

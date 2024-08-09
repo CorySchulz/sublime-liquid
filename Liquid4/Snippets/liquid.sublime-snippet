@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{%- liquid 
+	${1:string}
+-%}
+]]></content>
+    <tabTrigger>liquid</tabTrigger>
+    <description>multi-line liquid</description>
+    <scope>text.html.liquid</scope>
+</snippet>

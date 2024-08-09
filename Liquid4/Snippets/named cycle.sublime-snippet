@@ -4,5 +4,5 @@
 ]]></content>
 <tabTrigger>named</tabTrigger>
 <description>liquid named cycle</description>
-<scope>text.html</scope>
+<scope>text.html.liquid</scope>
 </snippet>
